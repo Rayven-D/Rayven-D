@@ -13,10 +13,9 @@ I am aspiring to be a software engineer that creates products of the future, and
 ##### Proficient
 
 > - Java ![Java Logo](https://github.com/Rayven-D/Rayven-D/blob/master/icons/icons8-java-20.png)
-> - C/C++ ![CPP Logo]([icons/icons8-c++-20.png](https://github.com/Rayven-D/Rayven-D/blob/master/icons/icons8-c%2B%2B-20.png))
-> - Python ![Python Logo](icons/icons8-python-20.png)
-> - HTML/CSS ![CSS Logo](icons/icons8-css3-20.png)
-
+> - C/C++ ![CPP Logo](https://github.com/Rayven-D/Rayven-D/blob/master/icons/icons8-c%2B%2B-20.png)
+> - Python ![Python Logo](https://github.com/Rayven-D/Rayven-D/blob/master/icons/icons8-python-20.png)
+> - HTML/CSS ![CSS Logo](https://github.com/Rayven-D/Rayven-D/blob/master/icons/icons8-css3-20.png)
 ##### Learning
 
 > - C# ![CS Logo](icons/icons8-c-sharp-logo-20.png)
