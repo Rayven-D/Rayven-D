@@ -3,7 +3,7 @@
 
 I am aspiring to be a software engineer that creates products of the future, and better the lives of many here on earth and beyond :milky_way:. I want to be a part of the advancement of AI and machine learning, as well as create numerous open source software :computer:.
 #### Current Project :memo:
-> - Creating my own personal website from scratch! You can check out the progress [here](http://rayvenderay.online).
+> - Creating my own personal website from scratch! You can check out the progress <a href="http://rayvenderay.online" target="_blank">here</a>.
 #### Programming Languages :vs:
 **Proficient**
 > - Java ![Java Logo](icons/icons8-java-20.png)
