@@ -6,7 +6,7 @@ I am aspiring to be a software engineer that creates products of the future, and
 
 #### Current Project :memo:
 
-> [ ] Creating my own personal website from scratch! You can check out the progress [here](http://rayvenderay.online).
+> Creating my own personal website from scratch! You can check out the progress [here](http://rayvenderay.online).
 
 #### Programming Languages :vs:
 
