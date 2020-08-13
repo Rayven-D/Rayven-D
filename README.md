@@ -6,12 +6,12 @@ I am aspiring to be a software engineer that creates products of the future, and
 > - Creating my own personal website from scratch! You can check out the progress [here](http://rayvenderay.online).
 #### Programming Languages :vs:
 **Proficient**
-> - Java ![Java Logo](icons8-java-20.png)
-> - C/C++ ![CPP Logo](icons8-c++-20.png)
-> - Python ![Python Logo](icons8-python-20.png)
-> - HTML/CSS ![CSS Logo](icons8-css3-20.png)
+> - Java ![Java Logo](icons/icons8-java-20.png)
+> - C/C++ ![CPP Logo](icons/icons8-c++-20.png)
+> - Python ![Python Logo](icons/icons8-python-20.png)
+> - HTML/CSS ![CSS Logo](icons/icons8-css3-20.png)
 
 **Learning**
-> - C# ![CS Logo](icons8-c-sharp-logo-20.png)
-> - JavaScript ![JS Logo](icons8-javascript-20.png)
-> - React ![React Logo](icons8-react-native-20.png)
+> - C# ![CS Logo](icons/icons8-c-sharp-logo-20.png)
+> - JavaScript ![JS Logo](icons/icons8-javascript-20.png)
+> - React ![React Logo](icons/icons8-react-native-20.png)
