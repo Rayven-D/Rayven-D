@@ -21,6 +21,5 @@ I am aspiring to be a software engineer that creates products of the future, and
 
 > - C# ![CS Logo](https://github.com/Rayven-D/Rayven-D/blob/master/icons/icons8-c-sharp-logo-20.png)
 > - JavaScript ![JS Logo](https://github.com/Rayven-D/Rayven-D/blob/master/icons/icons8-javascript-20.png)
-> - React ![React Logo](https://github.com/Rayven-D/Rayven-D/blob/master/icons/icons8-react-native-20.png)
 
 [//]: # (All icons are from https://icons8.com )
